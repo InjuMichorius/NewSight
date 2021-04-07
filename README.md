@@ -1,152 +1,91 @@
-# Human Centered Design @cmda-minor-web 2021
-//Interactie ontwerpen: Rapid prototypen en testen met echte mensen
-
-Human Centered Design is een  methode voor het ontwerpen van gebruiksvriendelijke interactieve toepassingen. 
-
-> What distinguishes Human-Centered Design from other problem-solving approaches is its obsessive focus on understanding the perspective of the person who experiences a problem, their needs, and whether the solution that has been designed for them is truly meeting their needs effectively or not. At its most effective, the very people who experience a problem the most are a constant part of the design process and when possible, become part of the design team itself. - [What Is Human-Centered Design?](https://medium.com/dc-design/what-is-human-centered-design-6711c09e2779)
-
-Door regelmatig te testen met je doelgroep kom je tot een beter en passend ontwerp. Een Frontend Designer en Developer heeft verstand van techniek, UX en design. Als je web technieken beheerst kun je je ideeën snel prototypen en testen in een browser. Je kan dan aanpassingen doorvoeren, uitproberen en weer testen ...
-
-In het vak Human Centered Design gaan we dingen ontwerpen voor echte mensen. Is er goede interactie? Kan je 'mens' je product op een prettige manier bedienen? Wat voor principes heb je gebruikt en getest? En is het leuk?
-
-
-## Opdracht
-
-### Ontwerpen met en voor echte mensen
-
-Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. Een echt mens. Je moet je ontwerp 3 keer testen. Door te testen en te itereren ga je je ontwerp verbeteren. Uiteindelijk heb je een ontwerp dat exclusief gemaakt is voor 1 persoon. Een _exclusive design_ ... Wie is deze persoon dan voor wie je dit gaat maken? Wat vindt deze persoon leuk of juist niet? En hoe bedient deze persoon een computer?
-
-- [Opdracht - Ontwerpen met en voor echte mensen](course/Opdracht.md)
-
-
-### Leerdoelen
-
-- _Leren hoe je (design) principles in een ontwerp kan toepassen._
-- _User needs begrijpen en gebruiken in je ontwerp._
-- _Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp._
-
-[Rubric](https://docs.google.com/spreadsheets/d/1no32c9YyAP78VMcqfA5i5at2OrxP9ce1d8dVGnii4Vs/)
-
-
-
-## Planning & programma
-
-| Planning  | Woensdag  |  Donderdag | Vrijdag  |
-|---|---|---|---|
-| [Week 1](#week-1)  | Intro, College inclusive design + Testen | Gastcollege + Testen | ~~Feedbackgesprekken~~ |
-| [Week 2](#week-2)  | College over testen + Testen  | Gastcollege + Testen | Feedbackgesprekken  |
-| [Week 3](#week-3)  | College + Testen  |  Gastcollege + Testen | Feedbackgesprekken  |
-| [Week 4](#week-4)  | Presentaties + Beoordelingsgesprekken | Beoordelingsgesprekken | Beoordelingsgesprekken + Weekly Nerd |
-
-
-
-### Week 1
-Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Je kan dan al een kleine interactieve demo maken om te testen.
-
-#### Woensdag 7 april
-Woensdag is de eerste les van het vak Human Centered Design. Je krijgt een intro college over het vak en Vasilis gaat vertellen over _Exclusive Design_.
-
-Daarna prototypen en testen
-
-- 14:00 Groep Darice
-- 15:00 Groep Eric
-
-#### Donderdag 8 april
-Donderdag begint de les met een gastcollege. Deze les gaan we het artikelen [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/) bespreken.
-
-Daarna prototypen en testen
-
-- 10:30 Groep Roger 
-- 16:30 Groep Marijn
-
-
-#### Vrijdag 9 april
-Deze dag is voor Real-Time web...
-
-
-### Week 2
-Deze week heb je het tweede gesprek met je mens. Wat ga je testen? Wat wil je weten? 
-
-#### Woensdag 14 april
-Woensdag krijg je een college over testen. Voor deze les moet je het artikel [10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/) lezen.
-
-Daarna voor de tweede keer prototypen en testen
-
-- 14:00 Groep Darice 
-- 15:00 Groep Eric
-
-#### Donderdag 15 april
-Donderdag begint de les met een gastcollege van Marie van Driessche. 
-
-Daarna voor de tweede keer prototypen en testen
-
-- 10:30 Groep Roger 
-- 14:00 Groep Marijn
-
-#### Vrijdag 16 april
-Vrijdag zijn er coachgesprekken in teams.
-
-
-
-
-### Week 3
-In week 3 gaan we verder met testen, itereren en reflecteren. Deze week is de laatste sessie met je mens. 
-
-#### Woensdag 21 april
-Woensdag beginnen we met een college. Voor deze les moet je dit artikel lezen: [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/).
-
-Daarna gaan we voord de laatste keer prototypen en testen
-
-- 14:00 Groep Darice 
-- 15:00 Groep Eric
-
-#### Donderdag 22 april
-Donderdag begint de les met een gastcollege van Johan Huijkman.
-
-Daarna gaan we voord de laatste keer prototypen en testen
-
-- 10:30 Groep Roger 
-- 14:00 Groep Marijn
-
-
-#### Vrijdag 23 april
-Vrijdag zijn er coachgesprekken.
-
-
-
-
-### Week 4
-
-Deze week hebben we een gesprek waarin we je vorderingen en bevindingen bespreken. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de leerdoelen van het vak. 
-
-
-#### Woensdag 28 april
-Teampresentaties en beoordelingsgesprekken. 
-
-#### Donderdag 29 april
-Beoordelingsgesprekken
-
-#### Vrijdag 30 april
-Beoordelingsgesprekken + Weekly Nerd
-
-
-
-
-
-<!-- Add a link to your live demo in Github Pages 🌐-->
-
-<!-- ☝️ replace this description with a description of your own work -->
-
-<!-- replace the code in the /docs folder with your own, so you can showcase your work with GitHub Pages 🌍 -->
-
-<!-- Add a nice poster image here at the end of the week, showing off your shiny frontend 📸 -->
-
-<!-- Maybe a table of contents here? 📚 -->
-
-<!-- How about a section that describes how to install this project? 🤓 -->
-
-<!-- ...but how does one use this project? What are its features 🤔 -->
-
-<!-- Maybe a checklist of done stuff and stuff still on your wishlist? ✅ -->
-
-<!-- How about a license here? 📜 (or is it a licence?) 🤷 -->
+# Exclusive Table Design
+![](IMAGE)
+
+Exclusive Table Design is a school project I made to make tables and graphs more accessible for the visually impaired. The project is focused on one user (exclusive design) called Roger Ravelli. He used to work as a renewable energy specialist, but he's slowly becoming blind.
+
+[Click here for the live demo](https://injumichorius.github.io/exclusiveTableDesign)
+
+## Goal
+The goal of Exclusive Table Design is learn how to make the web a more accessible place. The result should be a working table/graph web application that's easily readable by a screenreader.
+
+## Getting started [OUTDATED!]
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Technical requirements [OUTDATED!]
+To run this project you'll need [Git](https://git-scm.com/downloads), [MongoDB](https://www.mongodb.com) and any [code editor](https://code.visualstudio.com/download)
+
+### Installing [OUTDATED!]
+First you'll need to clone the repository. You can choose a destination by running cd (change directory). You can clone this repository by using clone https://github.com/InjuMichorius/hva-enquete.git.
+
+```js
+cd [ENTER YOUR PATH HERE]
+git clone https://github.com/InjuMichorius/hva-enquete.git
+```
+You also need to install the modules. To do this, you can type npm install in your terminal.
+
+```js
+npm install
+```
+### Setting up the database [OUTDATED!]
+This is the structure of the database:
+```JSON
+{
+  "_id":{"$oid":"606275a73d6d8a2440bab79b"},
+  "uuid":"7c99e779-499b-420c-b38e-f83da0f02b66",
+  "studentName":"Inju Michorius",
+  "studentNumber":"500804843",
+  "__v":0
+}
+```
+
+It will look like this in compass:
+![Screenshot of JSON file in Compass](https://github.com/InjuMichorius/browser-technologies-2021/blob/master/public/img/documentation/databaseStructure)
+
+### Testing [OUTDATED!]
+To test if the application works you can type the command below. If the application works, the terminal should say: Example app listening at: http://localhost:3000
+```js
+npm run dev
+```
+To test if you've correctly connected to the database you can go to the account page by typing http://localhost:3000 in your browser. Once on this page, you can fill in the form and send it. If it shows in the database, you've correctly connected. You can use Compass for easy visual acces to your database.
+
+## Feature wishlist / backlog
+* filler
+
+## Design patterns and Best Practices
+__Code standards are important__ when working on any project; your code stays *consistent* and is *readable* for everyone. I defined code standards for __HTML__, __CSS__ and __JS__ while working on this project.
+
+### Javascript code standards
+* Variables & functions are written in __camelCase__
+* Promises are handled with __async functions__ using await
+* I don't use var, only __const__ or __let__
+* I put __spaces around operators__ ( = + - * / ) and after commas (exception for for loops)
+* I use indentation with __TAB__
+* I always end a statement with a __semi-colon;__
+* Functions have their opening bracket on the __same line__ as the name, with 1 space in between
+* I use __ES6 syntax__ where possible
+
+### CSS code standards
+* I try to avoid __!important__ as much as possible
+* Layout/general styling is always __above__ more specific styling
+* Selectors are not unnecessary __long__ nor __short__
+* I use __CSS3 syntax__ where possible
+* I avoid old display properties like float
+* CSS Selectors must have a __space__ between the name and bracket
+
+### HTML code standards
+* I only use IDs when the element is present __once__ on a page and it's necessary for styling or Javascript
+* I always write semantic HTML according to __W3C Validator__
+* Divs are only used when __necessary__ for styling purposes
+* Classes allow easy __re-usage__
+* Indentation is always __clear__
+
+## Packages used
+* [Express](https://www.npmjs.com/package/express) - Used to setup the server
+* [MongoDB](https://www.npmjs.com/package/mongodb) - Used to setup the database
+* [Body-parser](https://www.npmjs.com/package/body-parser) - Used to refer to html elements
+* [Dotenv](https://www.npmjs.com/package/dotenv) - Used to protect sensitive information
+* [Ejs](https://www.npmjs.com/package/ejs) - Used for templating
+* [Nodemon](https://www.npmjs.com/package/nodemon) - Used for auto refreshing the server
+
+## License
+This project is licensed under the MIT license. See the [LISENCE.md](https://github.com/InjuMichorius/Filmaholic/blob/master/LICENSE) file for details

@@ -79,7 +79,7 @@ __Code standards are important__ when working on any project; your code stays *c
 * Classes allow easy __re-usage__
 * Indentation is always __clear__
 
-## Packages used
+## Packages used [OUTDATED!]
 * [Express](https://www.npmjs.com/package/express) - Used to setup the server
 * [MongoDB](https://www.npmjs.com/package/mongodb) - Used to setup the database
 * [Body-parser](https://www.npmjs.com/package/body-parser) - Used to refer to html elements

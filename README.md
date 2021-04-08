@@ -1,7 +1,7 @@
 # Exclusive Table Design
 ![](IMAGE)
 
-Exclusive Table Design is a school project I made to make tables and graphs more accessible for the visually impaired. The project is focused on one user (exclusive design) called Roger Ravelli. He used to work as a renewable energy specialist, but he's slowly becoming blind.
+Exclusive Table Design is a school project I made to make tables and graphs more accessible for the visually impaired. The project is focused on one user (exclusive design) called Roger Ravelli. He used to work as a renewable energy specialist, but he's slowly becoming blind and will need to use a screenreader.
 
 [Click here for the live demo](https://injumichorius.github.io/exclusiveTableDesign)
 

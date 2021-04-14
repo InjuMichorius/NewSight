@@ -1,12 +1,12 @@
-# Exclusive Table Design
+# NewSight
 ![](IMAGE)
 
-Exclusive Table Design is a school project I made to make tables and graphs more accessible for the visually impaired. The project is focused on one user (exclusive design) called Roger Ravelli. He used to work as a renewable energy specialist, but he's slowly becoming blind and will need to use a screenreader.
+NewSight is a school project I made to make a website that is more accessible for the visually impaired. The project is focused on one user (exclusive design) called Roger Ravelli. He used to work as a renewable energy specialist, but he's slowly becoming blind and will need to use a screenreader.
 
-[Click here for the live demo](https://injumichorius.github.io/exclusiveTableDesign)
+[Click here for the live demo](https://injumichorius.github.io/NewSight)
 
 ## Goal
-The goal of Exclusive Table Design is learn how to make the web a more accessible place. The result should be a working table/graph web application that's easily readable by a screenreader.
+The goal of NewSight is to provide it's users with recent news, that's easily accesible by screenreaders. By creating this project im hoping to learn how to make the web a more accessible place!
 
 ## Getting started [OUTDATED!]
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -49,7 +49,7 @@ npm run dev
 To test if you've correctly connected to the database you can go to the account page by typing http://localhost:3000 in your browser. Once on this page, you can fill in the form and send it. If it shows in the database, you've correctly connected. You can use Compass for easy visual acces to your database.
 
 ## Feature wishlist / backlog
-* filler
+
 
 ## Design patterns and Best Practices
 __Code standards are important__ when working on any project; your code stays *consistent* and is *readable* for everyone. I defined code standards for __HTML__, __CSS__ and __JS__ while working on this project.

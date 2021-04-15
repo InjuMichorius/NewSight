@@ -9,9 +9,30 @@ html {
     background-color: black;
 }
 
+header {
+    width: 100vw;
+    height: 90px;
+}
+
+a {
+    color: white;
+}
+
 main {
     display: grid;
     grid-template-columns: 1fr 1fr;
+}
+
+h1, h2 {
+    margin-bottom: 1rem;
+}
+
+p {
+    margin-bottom: 3rem;
+}
+
+#back {
+    float: right;
 }
 
 button {
@@ -20,4 +41,6 @@ button {
     border: none;
     color: white;
     font-size: 3rem;
+    cursor: pointer;
+    margin-bottom: 2rem;
 }

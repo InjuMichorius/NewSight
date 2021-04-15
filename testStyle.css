@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    color: white;
+    background-color: black;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+button {
+    padding: 1rem;
+    background-color: red;
+    border: none;
+    color: white;
+    font-size: 3rem;
+}

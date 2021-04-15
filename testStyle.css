@@ -4,9 +4,18 @@
     box-sizing: border-box;
 }
 
+:root {
+    --text: white;
+    --background: #cd2026;
+}
+
 html {
     color: white;
     background-color: black;
+}
+
+body {
+    height: 100vh;
 }
 
 header {
@@ -15,7 +24,13 @@ header {
 }
 
 a {
-    color: white;
+    display: inline;
+    text-align: right;
+    color: var(--text);
+    background-color: var(--background);
+    padding: 1rem;
+    line-height: 90px;
+    align-items: center;
 }
 
 main {
@@ -31,16 +46,43 @@ p {
     margin-bottom: 3rem;
 }
 
-#back {
-    float: right;
-}
-
 button {
     padding: 1rem;
-    background-color: red;
+    background-color: var(--background);
     border: none;
-    color: white;
+    color: var(--text);
     font-size: 3rem;
     cursor: pointer;
     margin-bottom: 2rem;
+}
+
+#red {
+    background-color: #cd2026;
+}
+
+#blue {
+    background-color: #112e51;
+}
+
+#yellow {
+    background-color: #fdb81e;
+}
+
+#light-blue {
+    background-color: #02bfe7;
+}
+
+#black {
+    background-color: black;
+    color: white;
+}
+
+#white {
+    background-color: white;
+    color: black;
+}
+
+footer {
+    display: fixed;
+    bottom: 0;
 }

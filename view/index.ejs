@@ -1,10 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <%- include('./components/head') %> 
-    <title>NewSight | Home</title>
+    <%- include('./components/head') %>
+        <title>NewSight | Home</title>
 </head>
+
 <body>
-    <p>Hello world</p>
+    <header>
+        <h1>NewSight</h1>
+    </header>
+    <main>
+        <section>
+            <% articles.forEach(function(article) { %>
+                <article class="article">
+                    <img src="<%= article.urlToImage %>" alt="Cover of <%= article.title %>" background-color="#333">
+                    <div class="article-content">
+                        <h2><%= article.title %></h2>
+                        <p class="author">Author: <%= article.author %></p>
+                        <p><%= article.description %></p>
+                        <p><%= article.content %></p>
+                        </a>
+                    </div>
+                </article>
+            <% }) %>
+        </section>
+    </main>
 </body>
+
 </html>

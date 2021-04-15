@@ -3,7 +3,7 @@ let root = document.documentElement;
 const blue = document.getElementById('blue')
 const red = document.getElementById('red')
 const yellow = document.getElementById('yellow')
-const lightBlue = document.getElementById('light-blue')
+const green = document.getElementById('green')
 const black = document.getElementById('black')
 const white = document.getElementById('white')
 
@@ -19,8 +19,8 @@ yellow.addEventListener('click', () => {
     root.style.setProperty('--background', "#fdb81e")
 })
 
-lightBlue.addEventListener('click', () => {
-    root.style.setProperty('--background', "#02bfe7")
+green.addEventListener('click', () => {
+    root.style.setProperty('--background', "#2e8540")
 })
 
 let currentTextColor = getComputedStyle(document.documentElement).getPropertyValue('--text')

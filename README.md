@@ -14,24 +14,13 @@ These instructions will get you a copy of the project up and running on your loc
 ### Technical requirements
 To run this project you'll need [Git](https://git-scm.com/downloads), [Nodejs](https://nodejs.org/en/download/) and any [code editor](https://code.visualstudio.com/download)
 
-### Installing
-First you'll need to clone the repository. You can choose a destination by running cd (change directory). You can clone this repository by using clone https://github.com/InjuMichorius/ReadEar.git.
+### 📥 Installing
+1. Clone this repository
+   Before we can get started, we'll need to clone this repo. This can be done by typing the following line of code into your terminal:
+   ```bash
+   git clone 
+   ```
 
-```js
-cd [ENTER YOUR PATH HERE]
-git clone https://github.com/InjuMichorius/ReadEar.git
-```
-You also need to install the modules. To do this, you can type npm install in your terminal.
-
-```js
-npm install
-```
-
-### Testing
-To test if the application works you can type the command below. If the application works, the terminal should say: Example app listening at: http://localhost:3000
-```js
-npm run dev
-```
 
 ## Feature wishlist / backlog
 Below is a list of features I'd love to add to this application. The features are split up using the **M**o**SC**o**W** method.

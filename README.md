@@ -1,60 +1,74 @@
-# ReadEar
+# ReadEar 📚
 ![](IMAGE)
 
-NewSight is a school project I made to make a website that is more accessible for the visually impaired. The project is focused on one user (exclusive design) called Roger Ravelli. He used to work as a renewable energy specialist, but he's slowly becoming blind and will need to use a screenreader.
+ReadEar is a school project I made, allowing blind people to "read" again. The project is focused on one user (exclusive design) called Roger Ravelli. He used to work as a renewable energy specialist, but he's slowly becoming blind and will need to use a screenreader. He likes to read and he's currently a member of a book group.
 
-[Click here for the live demo](https://injumichorius.github.io/NewSight)
+[Click here for the live demo](readearr.herokuapp.com/)
 
-## Goal
-The goal of NewSight is to provide it's users with recent news, that's easily accesible by screenreaders. By creating this project im hoping to learn how to make the web a more accessible place!
+# Table of Contents 🧭
+1. [Goal](https://github.com/InjuMichorius/ReadEar#goal-)
+2. [Getting started](https://github.com/InjuMichorius/ReadEar#getting-started-)
+3. [Wishlist](https://github.com/InjuMichorius/ReadEar#feature-wishlist--backlog-)
+4. [Practises](https://github.com/InjuMichorius/ReadEar#design-patterns-and-best-practices-)
+5. [Packages](https://github.com/InjuMichorius/ReadEar#packages-used-)
 
-## Getting started [OUTDATED!]
+# Goal 💪🏻
+The goal of ReadEar is to provide it's users with an accessible interface, so they can easily listen to mp3 files. By creating this project im hoping to learn how to make the web a more accessible place!
+
+# Getting started ✨
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Technical requirements [OUTDATED!]
-To run this project you'll need [Git](https://git-scm.com/downloads), [MongoDB](https://www.mongodb.com) and any [code editor](https://code.visualstudio.com/download)
+## Technical requirements
+To run this project you'll need [Git](https://git-scm.com/downloads), [Nodejs](https://nodejs.org/en/download/) and any [code editor](https://code.visualstudio.com/download)
 
-### Installing [OUTDATED!]
-First you'll need to clone the repository. You can choose a destination by running cd (change directory). You can clone this repository by using clone https://github.com/InjuMichorius/hva-enquete.git.
-
-```js
-cd [ENTER YOUR PATH HERE]
-git clone https://github.com/InjuMichorius/hva-enquete.git
+## 📥 Installing
+### 1. Clone this repository 👯
+Before we can get started, we'll need to clone this repository. We can do this by typing the following line of code in the terminal:
+```bash
+git clone https://github.com/InjuMichorius/ReadEar.git
 ```
-You also need to install the modules. To do this, you can type npm install in your terminal.
-
-```js
+### 2. Install the packages 💻
+First we need to install the used NPM packages.
+```bash
 npm install
 ```
-### Setting up the database [OUTDATED!]
-This is the structure of the database:
-```JSON
-{
-  "_id":{"$oid":"606275a73d6d8a2440bab79b"},
-  "uuid":"7c99e779-499b-420c-b38e-f83da0f02b66",
-  "studentName":"Inju Michorius",
-  "studentNumber":"500804843",
-  "__v":0
-}
-```
-
-It will look like this in compass:
-![Screenshot of JSON file in Compass](https://github.com/InjuMichorius/browser-technologies-2021/blob/master/public/img/documentation/databaseStructure)
-
-### Testing [OUTDATED!]
-To test if the application works you can type the command below. If the application works, the terminal should say: Example app listening at: http://localhost:3000
-```js
+### 3. Start developer environment 🎬
+Now we can run our application, by running the following line of code in your terminal:
+```bash
 npm run dev
 ```
-To test if you've correctly connected to the database you can go to the account page by typing http://localhost:3000 in your browser. Once on this page, you can fill in the form and send it. If it shows in the database, you've correctly connected. You can use Compass for easy visual acces to your database.
 
-## Feature wishlist / backlog
+### 4. Navigate to localhost 🌐
+Congratulations! If everything works, you should be able to see the application running in your browser. Please note that the port won't always be the same number.
+```
+http://localhost:3000
+```
 
+# Feature wishlist / backlog 👑
+Below is a list of features I'd love to add to this application. The features are split up using the **M**o**SC**o**W** method.
 
-## Design patterns and Best Practices
+**M** - Must haves
+_These features are requirements for the end product_
+- [x] Overview page with avaible books
+- [ ] Possibilty to change pages
+
+**S** - Should haves
+_These features are wanted, but not necessary for a usable product_
+- [ ] Accessible styling
+- [ ] Easy audio controls
+
+**C** - Could haves
+_These features can be added if there is enough time to do so_
+- [ ] Database that stores all mp3 files
+
+**W** - Would haves
+_These features can be added in the future_
+- [ ] Easy way for firends to upload mp3 files
+
+# Design patterns and Best Practices 👩🏻‍💻
 __Code standards are important__ when working on any project; your code stays *consistent* and is *readable* for everyone. I defined code standards for __HTML__, __CSS__ and __JS__ while working on this project.
 
-### Javascript code standards
+## Javascript code standards
 * Variables & functions are written in __camelCase__
 * Promises are handled with __async functions__ using await
 * I don't use var, only __const__ or __let__
@@ -64,7 +78,7 @@ __Code standards are important__ when working on any project; your code stays *c
 * Functions have their opening bracket on the __same line__ as the name, with 1 space in between
 * I use __ES6 syntax__ where possible
 
-### CSS code standards
+## CSS code standards
 * I try to avoid __!important__ as much as possible
 * Layout/general styling is always __above__ more specific styling
 * Selectors are not unnecessary __long__ nor __short__
@@ -72,20 +86,18 @@ __Code standards are important__ when working on any project; your code stays *c
 * I avoid old display properties like float
 * CSS Selectors must have a __space__ between the name and bracket
 
-### HTML code standards
+## HTML code standards
 * I only use IDs when the element is present __once__ on a page and it's necessary for styling or Javascript
 * I always write semantic HTML according to __W3C Validator__
 * Divs are only used when __necessary__ for styling purposes
 * Classes allow easy __re-usage__
 * Indentation is always __clear__
 
-## Packages used [OUTDATED!]
+# Packages used 📦
 * [Express](https://www.npmjs.com/package/express) - Used to setup the server
-* [MongoDB](https://www.npmjs.com/package/mongodb) - Used to setup the database
 * [Body-parser](https://www.npmjs.com/package/body-parser) - Used to refer to html elements
-* [Dotenv](https://www.npmjs.com/package/dotenv) - Used to protect sensitive information
 * [Ejs](https://www.npmjs.com/package/ejs) - Used for templating
 * [Nodemon](https://www.npmjs.com/package/nodemon) - Used for auto refreshing the server
 
-## License
-This project is licensed under the MIT license. See the [LISENCE.md](https://github.com/InjuMichorius/Filmaholic/blob/master/LICENSE) file for details
+# License 🔐
+This project is licensed under the MIT license by © Inju Michorius, 2021. See the [LISENCE.md](https://github.com/InjuMichorius/ReadEar/blob/master/LICENSE) file for details.

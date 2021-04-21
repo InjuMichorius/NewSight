@@ -20,6 +20,10 @@ app.get('/', (req, res) => {
     res.render('index')
 })
 
+app.get('/skillfulmeans1', (req, res) => {
+    res.render('skillfulmeans1')
+})
+
 app.get('/newsight', renderNewSight)
 
 app.get('/test', function(req, res) {

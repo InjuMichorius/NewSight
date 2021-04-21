@@ -11,10 +11,10 @@ The goal of ReadEar is to provide it's users with an accessible interface, so th
 ## Getting started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Technical requirements [OUTDATED!]
+### Technical requirements
 To run this project you'll need [Git](https://git-scm.com/downloads), [Nodejs](https://nodejs.org/en/download/) and any [code editor](https://code.visualstudio.com/download)
 
-### Installing [OUTDATED!]
+### Installing
 First you'll need to clone the repository. You can choose a destination by running cd (change directory). You can clone this repository by using clone https://github.com/InjuMichorius/ReadEar.git.
 
 ```js

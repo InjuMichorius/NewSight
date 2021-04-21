@@ -1,4 +1,4 @@
-# NewSight
+# ReadEar
 ![](IMAGE)
 
 NewSight is a school project I made to make a website that is more accessible for the visually impaired. The project is focused on one user (exclusive design) called Roger Ravelli. He used to work as a renewable energy specialist, but he's slowly becoming blind and will need to use a screenreader.

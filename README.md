@@ -15,12 +15,13 @@ These instructions will get you a copy of the project up and running on your loc
 To run this project you'll need [Git](https://git-scm.com/downloads), [Nodejs](https://nodejs.org/en/download/) and any [code editor](https://code.visualstudio.com/download)
 
 ### 📥 Installing
-1. Clone this repository
-   Before we can get started, we'll need to clone this repo. This can be done by typing the following line of code into your terminal:
-   ```bash
-   git clone 
-   ```
+1. Clone this repository 👯
 
+Before we can get started, we'll need to clone this repo. This can be done by typing the following line of code into your terminal:
+```bash
+git clone https://github.com/InjuMichorius/ReadEar.git
+```
+2. Install the packages 💻
 
 ## Feature wishlist / backlog
 Below is a list of features I'd love to add to this application. The features are split up using the **M**o**SC**o**W** method.

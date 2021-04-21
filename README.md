@@ -84,9 +84,7 @@ __Code standards are important__ when working on any project; your code stays *c
 
 ## Packages used [OUTDATED!]
 * [Express](https://www.npmjs.com/package/express) - Used to setup the server
-* [MongoDB](https://www.npmjs.com/package/mongodb) - Used to setup the database
 * [Body-parser](https://www.npmjs.com/package/body-parser) - Used to refer to html elements
-* [Dotenv](https://www.npmjs.com/package/dotenv) - Used to protect sensitive information
 * [Ejs](https://www.npmjs.com/package/ejs) - Used for templating
 * [Nodemon](https://www.npmjs.com/package/nodemon) - Used for auto refreshing the server
 

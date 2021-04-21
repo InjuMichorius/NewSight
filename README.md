@@ -89,4 +89,4 @@ __Code standards are important__ when working on any project; your code stays *c
 * [Nodemon](https://www.npmjs.com/package/nodemon) - Used for auto refreshing the server
 
 ## License
-This project is licensed under the MIT license. See the [LISENCE.md](https://github.com/InjuMichorius/Filmaholic/blob/master/LICENSE) file for details
+This project is licensed under the MIT license. See the [LISENCE.md](https://github.com/InjuMichorius/ReadEar/blob/master/LICENSE) file for details

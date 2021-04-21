@@ -5,5 +5,5 @@ module.exports = async function renderOverview(req, res) {
     const news = await fetchData('&sortBy=popularity')
     const articles = news.articles
     
-    res.render('index', {articles: articles})
+    res.render('newSight', {articles: articles})
 }

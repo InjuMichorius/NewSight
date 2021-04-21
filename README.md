@@ -5,6 +5,13 @@ ReadEar is a school project I made, allowing blind people to "read" again. The p
 
 [Click here for the live demo](readearr.herokuapp.com/)
 
+# Table of Contents 🧭
+1. [Goal](https://github.com/InjuMichorius/ReadEar#goal-)
+2. [Getting started](https://github.com/InjuMichorius/ReadEar#getting-started-)
+3. [Wishlist](https://github.com/InjuMichorius/ReadEar#feature-wishlist--backlog-)
+4. [Practises](https://github.com/InjuMichorius/ReadEar#design-patterns-and-best-practices-)
+5. [Packages](https://github.com/InjuMichorius/ReadEar#packages-used-)
+
 # Goal 💪🏻
 The goal of ReadEar is to provide it's users with an accessible interface, so they can easily listen to mp3 files. By creating this project im hoping to learn how to make the web a more accessible place!
 
@@ -92,5 +99,5 @@ __Code standards are important__ when working on any project; your code stays *c
 * [Ejs](https://www.npmjs.com/package/ejs) - Used for templating
 * [Nodemon](https://www.npmjs.com/package/nodemon) - Used for auto refreshing the server
 
-# License ✔️
-This project is licensed under the MIT license. See the [LISENCE.md](https://github.com/InjuMichorius/ReadEar/blob/master/LICENSE) file for details
+# License 🔐
+This project is licensed under the MIT license by © Inju Michorius, 2021. See the [LISENCE.md](https://github.com/InjuMichorius/ReadEar/blob/master/LICENSE) file for details.

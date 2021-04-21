@@ -86,11 +86,11 @@ __Code standards are important__ when working on any project; your code stays *c
 * Classes allow easy __re-usage__
 * Indentation is always __clear__
 
-# Packages used
+# Packages used 📦
 * [Express](https://www.npmjs.com/package/express) - Used to setup the server
 * [Body-parser](https://www.npmjs.com/package/body-parser) - Used to refer to html elements
 * [Ejs](https://www.npmjs.com/package/ejs) - Used for templating
 * [Nodemon](https://www.npmjs.com/package/nodemon) - Used for auto refreshing the server
 
-# License
+# License ✔️
 This project is licensed under the MIT license. See the [LISENCE.md](https://github.com/InjuMichorius/ReadEar/blob/master/LICENSE) file for details

@@ -1,14 +1,14 @@
-# ReadEar
+# ReadEar 📚
 ![](IMAGE)
 
 ReadEar is a school project I made, allowing blind people to "read" again. The project is focused on one user (exclusive design) called Roger Ravelli. He used to work as a renewable energy specialist, but he's slowly becoming blind and will need to use a screenreader. He likes to read and he's currently a member of a book group.
 
 [Click here for the live demo](readearr.herokuapp.com/)
 
-# Goal
+# Goal 💪🏻
 The goal of ReadEar is to provide it's users with an accessible interface, so they can easily listen to mp3 files. By creating this project im hoping to learn how to make the web a more accessible place!
 
-# Getting started
+# Getting started ✨
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ## Technical requirements
@@ -37,7 +37,7 @@ Congratulations! If everything works, you should be able to see the application 
 http://localhost:3000
 ```
 
-# Feature wishlist / backlog
+# Feature wishlist / backlog 👑
 Below is a list of features I'd love to add to this application. The features are split up using the **M**o**SC**o**W** method.
 
 **M** - Must haves
@@ -58,7 +58,7 @@ _These features can be added if there is enough time to do so_
 _These features can be added in the future_
 - [ ] Easy way for firends to upload mp3 files
 
-# Design patterns and Best Practices
+# Design patterns and Best Practices 👩🏻‍💻
 __Code standards are important__ when working on any project; your code stays *consistent* and is *readable* for everyone. I defined code standards for __HTML__, __CSS__ and __JS__ while working on this project.
 
 ## Javascript code standards
@@ -86,7 +86,7 @@ __Code standards are important__ when working on any project; your code stays *c
 * Classes allow easy __re-usage__
 * Indentation is always __clear__
 
-# Packages used [OUTDATED!]
+# Packages used
 * [Express](https://www.npmjs.com/package/express) - Used to setup the server
 * [Body-parser](https://www.npmjs.com/package/body-parser) - Used to refer to html elements
 * [Ejs](https://www.npmjs.com/package/ejs) - Used for templating

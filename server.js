@@ -28,6 +28,10 @@ app.get('/skillfulmeans2', (req, res) => {
     res.render('skillfulmeans2')
 })
 
+app.get('/skillfulmeans3', (req, res) => {
+    res.render('skillfulmeans3')
+})
+
 app.get('/newsight', renderNewSight)
 
 app.get('/test', function(req, res) {

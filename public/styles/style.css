@@ -56,3 +56,9 @@ li {
     text-decoration: none;
     padding: 1rem;
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    display: flex;
+}

@@ -73,3 +73,9 @@ footer button a {
     color: white;
     text-decoration: none;
 }
+
+footer audio {
+    width: 3rem;
+    height: 3rem;
+    background-color: tomato;
+}

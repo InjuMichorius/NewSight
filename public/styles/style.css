@@ -58,9 +58,9 @@ li {
 }
 
 footer {
+    width: 100%;
     position: fixed;
     bottom: 0;
-    display: flex;
 }
 
 footer button {
@@ -78,4 +78,10 @@ footer audio {
     width: 3rem;
     height: 3rem;
     background-color: tomato;
+}
+
+footer div {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
 }

@@ -62,3 +62,14 @@ footer {
     bottom: 0;
     display: flex;
 }
+
+footer button {
+    color: white;
+    background-color: var(--lightBlue);
+    font-size: 2rem;
+}
+
+footer button a {
+    color: white;
+    text-decoration: none;
+}

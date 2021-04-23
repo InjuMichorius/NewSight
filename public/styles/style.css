@@ -30,6 +30,11 @@ header h1 {
     align-items: center;
 }
 
+header a img{
+    width: 5rem;
+    height: 5rem;
+}
+
 main {
     padding: 0 10px;
 }
@@ -69,7 +74,6 @@ footer {
     grid-template-columns: 1fr 1fr 1fr;
     position: fixed;
     bottom: 0;
-    border: 1px solid red;
     background-color: var(--lightBlue);
 }
 

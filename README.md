@@ -1,5 +1,5 @@
 # ReadEar 📚
-![](https://github.com/InjuMichorius/ReadEar/blob/master/public/img/documentatie/READMECover.gif)
+![](https://github.com/InjuMichorius/ReadEar/blob/master/public/img/documentatie/white.gif)
 
 ReadEar is a school project I made, allowing blind people to "read" again. The project is focused on one user (exclusive design) called Roger Ravelli. He used to work as a renewable energy specialist, but he's slowly becoming blind and will need to use a screenreader. He likes to read and he's currently a member of a book group.
 

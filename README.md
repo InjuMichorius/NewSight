@@ -50,12 +50,12 @@ Below is a list of features I'd love to add to this application. The features ar
 **M** - Must haves
 _These features are requirements for the end product_
 - [x] Overview page with avaible books
-- [ ] Possibilty to change pages
+- [x] Possibilty to change pages
 
 **S** - Should haves
 _These features are wanted, but not necessary for a usable product_
-- [ ] Accessible styling
-- [ ] Easy audio controls
+- [x] Accessible styling
+- [x] Easy audio controls
 
 **C** - Could haves
 _These features can be added if there is enough time to do so_
